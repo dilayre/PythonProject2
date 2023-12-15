@@ -13,4 +13,4 @@ Bu proje python dosya işlemlerindeki dosya komutları ve aynı zamanda
 gibi fonksiyonlar kullanılarak oluşturulmuştur. </h2>
 
 <h3> Projedeki menü kısmı:</h3>
-<img src="[PythonProject2/proje-2(vektorel)/images/anamenu.jpg](https://github.com/dilayre/PythonProject2/blob/main/proje-2(vektorel)/images/anamenu.jpg)https://github.com/dilayre/PythonProject2/blob/main/proje-2(vektorel)/images/anamenu.jpg">
+<img src="https://github.com/dilayre/PythonProject2/blob/main/proje-2(vektorel)/images/anamenu.jpg">
